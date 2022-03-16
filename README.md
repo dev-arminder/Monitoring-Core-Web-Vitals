@@ -4,7 +4,7 @@ This is an example project for showing how to implement a basic **performance mo
 
 ## How it Works
 
-- Each time a user visits the home page, a utility JS file calculates the Web Vitals Score using the [Performace API](https://developer.mozilla.org/en-US/docs/Web/API/Performance) and sends it in beacon form to the API on page unload
+- Each time a user visits the home page, a utility JS file calculates the Web Vitals Score using the [Performace Observer API](https://developer.mozilla.org/en-US/docs/Web/API/PerformanceObserver) and sends it in beacon form to the API on page unload
 - These **Core Web Vitals Score** can then be saved in a CSV log file under the logs directory and used to improve the field score of each corresponding web vitals.
 
 ## How to use
