@@ -15,5 +15,10 @@ npm install
 npm start
 
 ```
-
 Open a browser at [http://localhost:3000/](http://localhost:3000/) to view the website.
+
+## Learn More About Web Performance
+- [Techniques for improving site performance.](https://web.dev/fast/)
+- [Web Performance Fundamentals Requestmetrics](https://requestmetrics.com/web-performance/measure-web-performance)
+
+
